@@ -1,5 +1,4 @@
 body {
-	font-family: 'Roboto', sans-serif;
 	background: seagreen;
 }
 
@@ -13,20 +12,24 @@ body {
 	flex: 1;
 }
 
-h1 {
-	font-family: 'Baloo', cursive;
+.maintitle {
+	border-style: solid;
+	border-radius: 15px;
+	border-color: gold;
+	border-width: 10px;
+	font-weight: bold;
+	color: white;
 	font-size: 4em;
 	text-align: center;
 	margin-top: 75px;
 	margin-bottom: 20px;
+	width: auto;
 }
 
-p {
+.subtitle {
 	text-align: center;
-	max-width: 60%;
-	line-height: 1.75;
+	line-height: 2;
 	margin: auto;
-	font-size: 1.2em;
 }
 
 .btn {
