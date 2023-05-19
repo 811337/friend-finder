@@ -10,6 +10,11 @@ var friends = [
 		scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
 	},
 	{
+		name: "Mr. Snuffleupagus",
+		photo: "https://static.wikia.nocookie.net/muppet/images/c/c3/Oscar-can2.jpg",
+		scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+	},
+	{
 		name: "Big Bird",
 		photo: "https://static.wikia.nocookie.net/muppet/images/9/92/Bigbirdnewversion.png",
 		scores: [4, 4, 5, 2, 5, 4, 2, 4, 4, 5]
