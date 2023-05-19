@@ -5,6 +5,11 @@ var friends = [
 		scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 	},
 	{
+		name: "Bert",
+		photo: "https://static.wikia.nocookie.net/muppet/images/c/c3/Oscar-can2.jpg",
+		scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+	},
+	{
 		name: "Big Bird",
 		photo: "https://static.wikia.nocookie.net/muppet/images/9/92/Bigbirdnewversion.png",
 		scores: [4, 4, 5, 2, 5, 4, 2, 4, 4, 5]
