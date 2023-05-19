@@ -6,12 +6,12 @@ var friends = [
 	},
 	{
 		name: "Bert",
-		photo: "https://static.wikia.nocookie.net/muppet/images/c/c3/Oscar-can2.jpg",
+		photo: "https://static.wikia.nocookie.net/muppet/images/e/e1/Bert_smile.png",
 		scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
 	},
 	{
 		name: "Mr. Snuffleupagus",
-		photo: "https://static.wikia.nocookie.net/muppet/images/c/c3/Oscar-can2.jpg",
+		photo: "https://static.wikia.nocookie.net/muppet/images/f/fc/Character.snuffy.jpg",
 		scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
 	},
 	{
