@@ -30,6 +30,11 @@ var friends = [
 		scores: [1, 2, 3, 4, 5, 5, 4, 3, 2, 1]
 	},
 	{
+		name: "Abby Cadabby",
+		photo: "https://static.wikia.nocookie.net/muppet/images/a/a6/Abby-standing.jpg",
+		scores: [5, 4, 3, 2, 1, 1, 2, 3, 4, 5]
+	},
+	{
 		name: "Big Bird",
 		photo: "https://static.wikia.nocookie.net/muppet/images/9/92/Bigbirdnewversion.png",
 		scores: [4, 4, 5, 2, 5, 4, 2, 4, 4, 5]
